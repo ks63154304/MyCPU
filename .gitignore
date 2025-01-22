@@ -1,0 +1,9 @@
+/.*/
+/project/
+/target/*
+/test_run_dir/
+
+!.gitignore
+!/target/share/
+
+/build/
