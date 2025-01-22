@@ -16,5 +16,5 @@ This will produce a `vcd` file in `./test_run_dir/CPU_should_work_through_hex/`.
 
 Run [arch-test-target](https://github.com/riscv-non-isa/riscv-arch-test) test.
 ```bash
-make sbt
+make riscof
 ```
